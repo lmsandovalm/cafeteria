@@ -1,0 +1,16 @@
+.profile {
+    display: flex;
+    align-items: center;
+}  
+
+.profile-image {
+    width: 400px;
+    height: 400px;
+    border-radius: 30%;
+    margin-right: 20px; 
+}
+
+.profile-description {
+    font-size: 16px;
+    text-align: justify;
+}
